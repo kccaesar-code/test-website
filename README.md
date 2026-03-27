@@ -1,31 +1,44 @@
-# GitHub Pages 測試網站
+# 教師提示詞示範網站
 
-這是一個使用 GitHub Pages 部署的測試網站。
+這是一個為教師設計的AI提示詞示範網站，提供各種教學場景下的AI提示詞模板和最佳實踐。
 
-## 🚀 快速開始
+## 🚀 快速訪問
+- **網站地址**: https://kccaesar-code.github.io/test-website/
+- **GitHub倉庫**: https://github.com/kccaesar-code/test-website
 
-### 訪問地址
-- **GitHub Pages**: https://kccaesar-code.github.io/test-website/
-- **GitHub 倉庫**: https://github.com/kccaesar-code/test-website
+## 🎯 網站特色
+- **中英文對照**: 支持中文、英文、中英對照三種語言模式
+- **提示詞分類**: 教案設計、課堂活動、評估反饋等分類
+- **實用模板**: 可直接使用的AI提示詞模板
+- **最佳實踐**: 提示詞編寫技巧和注意事項
+- **響應式設計**: 適應手機、平板、電腦各種設備
 
-### 功能特色
-- ✅ 響應式設計，適應各種設備
-- ✅ 美觀的現代化界面
-- ✅ 自動 HTTPS 加密
-- ✅ GitHub Pages 自動部署
+## 📁 主要內容
+### 1. 提示詞基本原則
+- 明確性、具體性、結構化等核心原則
+- 中英文對照說明
 
-## 📁 文件結構
-```
-test-website/
-├── index.html          # 主頁面
-├── README.md          # 項目說明
-└── (未來可添加更多文件)
-```
+### 2. 進階技巧
+- 角色扮演、思維鏈、少樣本學習等技巧
+- 實際應用示例
 
-## 🛠️ 技術棧
-- **前端**: HTML5, CSS3, JavaScript
-- **部署**: GitHub Pages
-- **版本控制**: Git
+### 3. 實用提示詞範本庫
+- 教案設計類
+- 課堂活動類  
+- 評估反饋類
+- 差異化教學類
+
+### 4. 實際應用場景
+- 試卷生成
+- 學習材料改編
+- 個性化學習支持
+- 行政文書協助
+
+## 🛠️ 技術特色
+- **語言切換**: 一鍵切換中文/英文/雙語模式
+- **卡片式設計**: 清晰的內容組織
+- **互動元素**: 可展開/收起的內容區域
+- **現代化界面**: 美觀的視覺設計
 
 ## 🔧 本地開發
 ```bash
@@ -41,25 +54,22 @@ start index.html # Windows
 xdg-open index.html # Linux
 ```
 
-## 📝 如何更新
-1. 編輯 `index.html` 文件
-2. 提交更改到 GitHub
-3. GitHub Pages 會自動重新部署
+## 📝 如何貢獻
+1. 提出新的提示詞模板建議
+2. 改進現有內容的翻譯質量
+3. 添加新的教學應用場景
+4. 改進網站設計和用戶體驗
 
-## 🌐 GitHub Pages 設置
-1. 進入倉庫 Settings → Pages
-2. 選擇 Source: Deploy from a branch
-3. 選擇 Branch: main
-4. 選擇 Folder: / (root)
-5. 點擊 Save
-
-## 📊 部署狀態
-![GitHub Pages](https://img.shields.io/github/deployments/kccaesar-code/test-website/github-pages?label=GitHub%20Pages)
-![GitHub last commit](https://img.shields.io/github/last-commit/kccaesar-code/test-website)
+## 🌐 部署信息
+- **託管平台**: GitHub Pages
+- **自動部署**: 推送代碼後自動更新
+- **HTTPS**: 自動啟用安全連接
+- **CDN加速**: GitHub全球CDN
 
 ## 📞 聯繫
-- **GitHub**: [kccaesar-code](https://github.com/kccaesar-code)
-- **網站**: https://kccaesar-code.github.io/test-website/
+- **創建者**: KCaesar
+- **用途**: 教育技術資源分享
+- **更新時間**: $(date +%Y-%m-%d)
 
 ## 📄 許可證
-MIT License - 詳見 LICENSE 文件
+教育用途 - 自由使用和分享
